@@ -5,7 +5,7 @@ print('O que você deseja jogar?')
 numrodadas = 3
 numdevitorias = 0
 numdederrotas = 0
-vencedor = int()
+vencedor = str()
 decisao = random.choice(['Pedra', 'Papel', 'Tesoura'])
 while True:
     if numdevitorias > numdederrotas:
