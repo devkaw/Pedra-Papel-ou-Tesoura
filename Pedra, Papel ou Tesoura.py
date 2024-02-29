@@ -1,5 +1,5 @@
 import random
-print('Bem vindo ao jogo do Pedra, Papel ou tesoura, nesse jogo você irá batalhar contra a máquina. Boa sorte!')
+print('Bem vindo ao jogo do Pedra, Papel ou Tesoura, nesse jogo você irá batalhar contra a máquina. Boa sorte!')
 print('O que você deseja jogar?')
 
 numrodadas = 3
